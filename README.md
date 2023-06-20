@@ -3,7 +3,7 @@ Welcome to `FundamentalCS`, a collection of projects showcasing fundamental conc
 
 Most projects in this repository are adapted from the course projects during my undergraduate study. Each project offers a hands-on experience with the fundamental principles and practical applications of computer science. While most of the projects are in a functional state and can pass the provided test suites, a few harbor minor bugs, which I expect to fix in the future. 
 
-This repository will be consistently maintained and updated until all the undergraduate-level CS courses and relevant projects are completed. The prefix (words before the first hyphen) for the projects indicates the related course and CS area. So far, it has: 
+This repository will be consistently maintained and updated until all the undergraduate-level CS courses and relevant projects are completed. The prefix (characters before the first hyphen) for the projects denotes the related course and CS branch. So far, it has: 
 
 * **OS**: Operating Systems
 * **CompArch**: Computer Architecture
@@ -14,4 +14,4 @@ This repository will be consistently maintained and updated until all the underg
 Each folder at the root level represents a **standalone** project. To run and test the projects, please refer to the `report.pdf` attached to the project folder, where the running environment is specified.
 
 ## Academic Integrity
-If you happen to be my fellow students and recognize some of the projects, you're welcome to peruse the codes and provide feedback. However, to improve your own coding skills, you should do the design and coding **on your own**.
+Fellow students who recognize some of the projects are welcome to peruse the codes and provide feedback. However, for academic endeavors, project design and coding should be carried out **independently**.
