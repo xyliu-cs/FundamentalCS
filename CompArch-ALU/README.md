@@ -1,7 +1,9 @@
-To test the functionality of the designed ALU module and view the results, run the following command:
+To test the functionality of the designed ALU module and view the results, make sure that `Make` and `Icarus Verilog` are properly installed on your machine. Then, put `ALU.v`, `test_ALU.v`, and `Makefile` under your working directory and run the following command:
 
 ```bash
 make
-iverilog -o out test_alu.v alu.v
-vvp out
+```
+To remove the test output, run:
+```bash
+clean
 ```
